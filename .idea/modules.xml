@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3d_printing/3d_printing.iml" filepath="$PROJECT_DIR$/3d_printing/3d_printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_breadth_first_search/_breadth_first_search.iml" filepath="$PROJECT_DIR$/_breadth_first_search/_breadth_first_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_ford_fulkerson/_ford_fulkerson.iml" filepath="$PROJECT_DIR$/_ford_fulkerson/_ford_fulkerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_i_war/a_i_war.iml" filepath="$PROJECT_DIR$/a_i_war/a_i_war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aerobics/aerobics.iml" filepath="$PROJECT_DIR$/aerobics/aerobics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airport_walkways/airport_walkways.iml" filepath="$PROJECT_DIR$/airport_walkways/airport_walkways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/append_sort/append_sort.iml" filepath="$PROJECT_DIR$/append_sort/append_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bilingual/bilingual.iml" filepath="$PROJECT_DIR$/bilingual/bilingual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boilerplate_multi/boilerplate_multi.iml" filepath="$PROJECT_DIR$/boilerplate_multi/boilerplate_multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boilerplate_single/boilerplate_single.iml" filepath="$PROJECT_DIR$/boilerplate_single/boilerplate_single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bot_trust/bot_trust.iml" filepath="$PROJECT_DIR$/bot_trust/bot_trust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/candy_splitting/candy_splitting.iml" filepath="$PROJECT_DIR$/candy_splitting/candy_splitting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-jam-practice-2022.iml" filepath="$PROJECT_DIR$/code-jam-practice-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie_clicker_alpha/cookie_clicker_alpha.iml" filepath="$PROJECT_DIR$/cookie_clicker_alpha/cookie_clicker_alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d1000000/d1000000.iml" filepath="$PROJECT_DIR$/d1000000/d1000000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dancing_with_the_googlers/dancing_with_the_googlers.iml" filepath="$PROJECT_DIR$/dancing_with_the_googlers/dancing_with_the_googlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_packing/data_packing.iml" filepath="$PROJECT_DIR$/data_packing/data_packing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deceitful_war/deceitful_war.iml" filepath="$PROJECT_DIR$/deceitful_war/deceitful_war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/descending_in_the_dark/descending_in_the_dark.iml" filepath="$PROJECT_DIR$/descending_in_the_dark/descending_in_the_dark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dont_break_the_nile/dont_break_the_nile.iml" filepath="$PROJECT_DIR$/dont_break_the_nile/dont_break_the_nile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double_or_one_thing/double_or_one_thing.iml" filepath="$PROJECT_DIR$/double_or_one_thing/double_or_one_thing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equal_sum/equal_sum.iml" filepath="$PROJECT_DIR$/equal_sum/equal_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expensive_dinner/expensive_dinner.iml" filepath="$PROJECT_DIR$/expensive_dinner/expensive_dinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fair_and_square/fair_and_square.iml" filepath="$PROJECT_DIR$/fair_and_square/fair_and_square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fair_warning/fair_warning.iml" filepath="$PROJECT_DIR$/fair_warning/fair_warning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freeform_factory/freeform_factory.iml" filepath="$PROJECT_DIR$/freeform_factory/freeform_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fresh_chocolate/fresh_chocolate.iml" filepath="$PROJECT_DIR$/fresh_chocolate/fresh_chocolate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hall_of_mirrors/hall_of_mirrors.iml" filepath="$PROJECT_DIR$/hall_of_mirrors/hall_of_mirrors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kiddie_pool/kiddie_pool.iml" filepath="$PROJECT_DIR$/kiddie_pool/kiddie_pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lawnmower/lawnmower.iml" filepath="$PROJECT_DIR$/lawnmower/lawnmower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic_trick/magic_trick.iml" filepath="$PROJECT_DIR$/magic_trick/magic_trick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicka/magicka.iml" filepath="$PROJECT_DIR$/magicka/magicka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/many_prizes/many_prizes.iml" filepath="$PROJECT_DIR$/many_prizes/many_prizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain_view/mountain_view.iml" filepath="$PROJECT_DIR$/mountain_view/mountain_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new_elements_1/new_elements_1.iml" filepath="$PROJECT_DIR$/new_elements_1/new_elements_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new_elements_2/new_elements_2.iml" filepath="$PROJECT_DIR$/new_elements_2/new_elements_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern_matching/pattern_matching.iml" filepath="$PROJECT_DIR$/pattern_matching/pattern_matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pegman/pegman.iml" filepath="$PROJECT_DIR$/pegman/pegman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permrle/permrle.iml" filepath="$PROJECT_DIR$/permrle/permrle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pixelated_circle/pixelated_circle.iml" filepath="$PROJECT_DIR$/pixelated_circle/pixelated_circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pottery_lottery/pottery_lottery.iml" filepath="$PROJECT_DIR$/pottery_lottery/pottery_lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime_time/prime_time.iml" filepath="$PROJECT_DIR$/prime_time/prime_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/punched_cards/punched_cards.iml" filepath="$PROJECT_DIR$/punched_cards/punched_cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rather_perplexing_showdown/rather_perplexing_showdown.iml" filepath="$PROJECT_DIR$/rather_perplexing_showdown/rather_perplexing_showdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycled_numbers/recycled_numbers.iml" filepath="$PROJECT_DIR$/recycled_numbers/recycled_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/red_tape_committee/red_tape_committee.iml" filepath="$PROJECT_DIR$/red_tape_committee/red_tape_committee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reversort/reversort.iml" filepath="$PROJECT_DIR$/reversort/reversort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roller_coaster_scheduling/roller_coaster_scheduling.iml" filepath="$PROJECT_DIR$/roller_coaster_scheduling/roller_coaster_scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snapper_chain/snapper_chain.iml" filepath="$PROJECT_DIR$/snapper_chain/snapper_chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speaking_in_toungues/speaking_in_toungues.iml" filepath="$PROJECT_DIR$/speaking_in_toungues/speaking_in_toungues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinning_blade/spinning_blade.iml" filepath="$PROJECT_DIR$/spinning_blade/spinning_blade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiraling_into_control/spiraling_into_control.iml" filepath="$PROJECT_DIR$/spiraling_into_control/spiraling_into_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/square_dance/square_dance.iml" filepath="$PROJECT_DIR$/square_dance/square_dance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swinging_wild/swinging_wild.iml" filepath="$PROJECT_DIR$/swinging_wild/swinging_wild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/the_gardener_of_seville/the_gardener_of_seville.iml" filepath="$PROJECT_DIR$/the_gardener_of_seville/the_gardener_of_seville.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme_park/theme_park.iml" filepath="$PROJECT_DIR$/theme_park/theme_park.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic_tac_tomek/tic_tac_tomek.iml" filepath="$PROJECT_DIR$/tic_tac_tomek/tic_tac_tomek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket_swapping/ticket_swapping.iml" filepath="$PROJECT_DIR$/ticket_swapping/ticket_swapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treasure/treasure.iml" filepath="$PROJECT_DIR$/treasure/treasure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle_areas/triangle_areas.iml" filepath="$PROJECT_DIR$/triangle_areas/triangle_areas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/up_and_down/up_and_down.iml" filepath="$PROJECT_DIR$/up_and_down/up_and_down.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weightlifting/weightlifting.iml" filepath="$PROJECT_DIR$/weightlifting/weightlifting.iml" />
+    </modules>
+  </component>
+</project>

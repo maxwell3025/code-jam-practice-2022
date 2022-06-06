@@ -1,0 +1,43 @@
+---ERROR ON SUBMIT---
+Wrong Answer?
+-Make sure to actually output the answer
+-Check for edge cases
+-Make sure you corrected copy-pasted code correctly
+
+Runtime Error?
+-Overflow--try to use longs or BigIntegers
+-Hit 1GB memory limit--try to make code more efficient
+
+---CODE STRUCTURE---
+Classes
+-Make them inside the solution class so you can access the fields in solution
+
+Binary Search
+-THINK about your initial boundaries
+
+Dynamic Programming
+-Weird data types are fine(like int[][][]), but label each index of the array in a comment
+-If you have to use wrapper types types(BigInteger, List, Stack, Set, etc...), write some pseudocode on paper first
+
+Graphs
+-Assume distances are labeled by default - this will almost always run quickly enough to be negligible
+-Remember the Ford Fulkerson algorithm
+-Use Dequeue and labeling for simple BFS, use a stack for DFS, and use TreeSet for Dijkstra's algorithm.
+-Make Node classes as simple as possible, leave the rest to Maps and Sets
+
+Queues
+
+---PEP TALK---
+Remember What Rust Taught You!
+-Be explicit!
+-Accuracy first! efficiency later!
+
+Never Give Up Until It's Over!
+-You never know when insight will flash you
+-There's no benefit in giving up!
+
+Focus On Organization!
+-Sketch out what you are planning to do on paper and take time to do it!
+-If you know what the solution is don't cheat yourself by failing to properly implement it!
+
+Read The Problem Carefully!
